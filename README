@@ -1,0 +1,17 @@
+#TODO:
+
+Convert the memory capture library as a git module
+
+Add the bot
+
+#Instructions
+
+Download Visual Studio
+
+Clone this repo
+
+Open sln file in capture
+
+Download nats-server
+
+To be continued...
